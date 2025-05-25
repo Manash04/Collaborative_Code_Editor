@@ -1,30 +1,14 @@
-# Collab Code Editor
+# Collaborative Code Editor
 
-A powerful real-time collaborative code editor that enables seamless team coding sessions. Built with modern web technologies, it provides an intuitive interface for multiple developers to work together efficiently.
+A real-time collaborative code editor similar to Google Docs but for writing code. Users can edit code in real-time, see changes made by collaborators, and chat with others. The editor includes features like syntax highlighting and version control.
 
 ## 🌟 Features
 
-- 💻 Real-time collaboration on code editing across multiple files
-- 📁 Create, open, edit, save, delete, and organize files and folders
-- 💾 Option to download the entire codebase as a zip file
-- 🚀 Unique room generation with room ID for collaboration
-- 🌍 Comprehensive language support for versatile programming
-- 🌈 Syntax highlighting for various file types with auto-language detection
-- 🚀 Code Execution: Users can execute the code directly within the collaboration environment
-- ⏱️ Instant updates and synchronization of code changes across all files and folders
-- 📣 Notifications for user join and leave events
-- 👥 User presence list with online/offline status indicators
-- 💬 Real-time group chatting functionality
-- 🎩 Real-time tooltip displaying users currently editing
-- 💡 Auto suggestion based on programming language
-- 🔠 Option to change font size and font family
-- 🎨 Multiple themes for personalized coding experience
-- 🎨 Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time
-- 🤖 AI-powered code suggestions and completions
-
-## 🚀 Live Demo
-
-You can try out the live demo [here](https://your-demo-url.com).
+- 💻 Real-time collaboration on code editing
+- 👥 See changes made by collaborators in real-time
+- 💬 Chat with other collaborators
+- 🌈 Syntax highlighting for various programming languages
+- 📝 Version control for tracking changes
 
 ## 💻 Tech Stack
 
@@ -40,7 +24,7 @@ You can try out the live demo [here](https://your-demo-url.com).
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/collab-code-editor.git
+   git clone https://github.com/Manash04/Collaborative_Code_Editor.git
    ```
 
 2. **Create .env file:**
@@ -88,14 +72,14 @@ This project is licensed under the MIT License.
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github.com/your-username.png" width="120px;" alt="Your Name"/>
+        <img src="https://github.com/Manash04.png" width="120px;" alt="Manash"/>
         <br />
-        <b>Your Name</b>
+        <b>Manash</b>
       </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/your-username">
+            <a href="https://github.com/Manash04">
             <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <br/>
