@@ -3,6 +3,8 @@ TODO.md
 CONTRIBUTING.md
 docker-compose.yml
 LICENSE
+.github
+preview.png
 
 # Dependencies
 node_modules/

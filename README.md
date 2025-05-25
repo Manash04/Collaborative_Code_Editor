@@ -62,9 +62,6 @@ A real-time collaborative code editor similar to Google Docs but for writing cod
    http://localhost:5173/
    ```
 
-## 🧾 License
-
-This project is licensed under the MIT License.
 
 ## ✍️ About Developer
 
